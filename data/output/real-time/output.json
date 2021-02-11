@@ -1,0 +1,1 @@
+{"segments":[{"transcript":"This is a positive sentence!","final":true,"sentiment":{"polarity":0.65,"subjectivity":0.27,"label":"positive","word_complexity":48.3,"word_disfluency":0.0}},{"transcript":"This is a negative sentence, and it sucks.","final":true,"sentiment":{"polarity":-0.69,"subjectivity":0.23,"label":"negative","word_complexity":44.8,"word_disfluency":0.0}}]}
